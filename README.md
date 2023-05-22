@@ -6,5 +6,5 @@ Je modifie le fichier directement sur **Github**.
 
 *Pour voir ce qui va se passer ensuite...*
 
-[mapomme2020.png]()
+[test](mapomme2020.png)
 
