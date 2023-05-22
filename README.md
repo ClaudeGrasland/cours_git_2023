@@ -6,5 +6,4 @@ Je modifie le fichier directement sur **Github**.
 
 *Pour voir ce qui va se passer ensuite...*
 
-![test](mapomme2020.png)
 
